@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BooksPlatform</string>
+    <string name="read">Want to read</string>
+    <string name="username">Mazen Amr</string>
+    <string name="notification_clicked">Notification Clicked</string>
+    <string name="reviews_clicked">Reviews Clicked</string>
+    <string name="favourite_clicked">Favourite Clicked</string>
+    <string name="search_clicked">Search Clicked</string>
+    <string name="profile_clicked">Profile Clicked</string>
+    <string name="settings_clicked">Settings Clicked</string>
+</resources>
