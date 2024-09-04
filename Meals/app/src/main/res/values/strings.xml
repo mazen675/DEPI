@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meals</string>
+    <string name="browse">Browse</string>
+    <string name="myCart">My Cart</string>
+    <string name="mealPlans">Meal Plans</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="burger">Burger</string>
+    <string name="steak">Steak</string>
+    <string name="pancakes">Pancakes</string>
+    <string name="pizza">Pizza</string>
+    <string name="shawerma">Shawerma</string>
+    <string name="waffles">Waffles</string>
+</resources>
